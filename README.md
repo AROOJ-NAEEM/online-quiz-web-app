@@ -1,3 +1,9 @@
-# online-quiz-web-app
-An online quiz system is used for adding quizzes and to attempt them with time flexibility. This system has 2 user types i)Admin and ii)User/Student. This system is based on Multiple Choice Questions where the admin can add multiples. Users/Students can attempt the quiz more than 1 time and they can see all the other users that have attempted that particular quiz.
-Languages:PHP,HTML,CSS
+# Online-Quiz-System
+Today Online Quiz System has become a fast growing examination method because of its speed and accuracy. It is also needed less manpower to execute the examination. Almost all organizations now-a-days, are conducting their objective exams by online examination or quiz system, it saves students time in examinations. Organizations can also easily check the performance of the student that they give in an examination. As a result of this, organizations are releasing results in less time. It also helps the environment by saving paper. According to today’s requirement, online examination project in PHP is very useful to learn it.
+
+
+
+Attention 
+----------------------------
+exam.rar file contains all the css files, plugins and images.
+----------------------------
